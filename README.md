@@ -6,9 +6,9 @@ This project automates the complete shopping flow for video games on Amazon Egyp
 - Utils: Reusable utility classes for waits and configuration
 - Tests: Test classes using TestNG framework
 - Configuration Management:
-    External configuration file
-    Easy to modify test parameters
-    Credentials separated from code
+    * External configuration file
+    * Easy to modify test parameters
+    * Credentials separated from code
 #  Requirements
 Before running the project, ensure you have the following installed:
 1. Java JDK 11 or higher
